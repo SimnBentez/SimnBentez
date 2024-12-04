@@ -8,6 +8,12 @@ I'm a Civil Engineer with a passion for programming and research. I enjoy using 
 
 I specialize in Python programming and have developed a variety of projects that range from structural analysis to data visualization and automation. Beyond engineering, I take pride in my ability to think critically and find innovative solutions to technical challenges.
 
+I’m also interested in learning **C++** and **Rust** to expand my skills and develop future projects focused on engineering applications. I have a deep love for mathematics, and every day I strive to learn more and enhance my understanding of the subject.
+
+In my academic journey, I contributed to the field of civil engineering by co-authoring a research article, showcasing my dedication to advancing knowledge and improving practices in the industry.
+
+Feel free to connect with me to discuss engineering, research, programming, or anything Python-related!
+
 ### Skills
 
 <div style="display: flex; align-items: center;">
@@ -17,9 +23,3 @@ I specialize in Python programming and have developed a variety of projects that
     </div>
     <span>85%</span>
 </div>
-
-I’m also interested in learning **C++** and **Rust** to expand my skills and develop future projects focused on engineering applications. I have a deep love for mathematics, and every day I strive to learn more and enhance my understanding of the subject.
-
-In my academic journey, I contributed to the field of civil engineering by co-authoring a research article, showcasing my dedication to advancing knowledge and improving practices in the industry.
-
-Feel free to connect with me to discuss engineering, research, programming, or anything Python-related!
